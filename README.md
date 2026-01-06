@@ -69,3 +69,4 @@ git commit → Opens an editor to write a commit message
 Purpose:
 Using git commit allows Git to maintain a history of changes, making it possible to revert, review, or track your project over time.
 ====================================================
+hi
